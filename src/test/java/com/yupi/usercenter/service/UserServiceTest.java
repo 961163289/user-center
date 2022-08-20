@@ -1,5 +1,6 @@
 package com.yupi.usercenter.service;
 
+import com.yupi.usercenter.model.User;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
